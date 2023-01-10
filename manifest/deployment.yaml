@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: akari0913/go-helloworld-2
+      - image: b4ccd791eefafc010369a405b338e298e100636a
         name: go-helloworld-2
